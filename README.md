@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @nikisingh
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python
-
-
-<!---
-nikisingh/nikisingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- You will need to have Node installed to start this environment. If you are not sure if you have Node installed run `node -v` in your terminal. If you do not see a version number output, install Node before moving on.
+- Install light-server locally and save it to your development environment by running `npm install lite-server --save-dev` in your terminal.
+- Run `npm run start` in your terminal to start the server.
+- Your browser will open at `localhost:3000`.
